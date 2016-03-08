@@ -1,1 +1,1 @@
-this is a change that will conflict with a different change
+this is a change that will conflict with a different change, allegedly 
